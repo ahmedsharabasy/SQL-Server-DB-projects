@@ -1,0 +1,19 @@
+Microsoft(R) Server Maintenance Utility (Unicode) Version 16.0.1000
+Report was generated on "DESKTOP-S2Q4MAL".
+Maintenance Plan: auto backup
+Duration: 00:00:00
+Status: Succeeded.
+Details:
+Back Up Database (Full) (DESKTOP-S2Q4MAL)
+Backup Database on Local server connection
+Databases: Examination
+Type: Full
+Append existing
+Task start: 2024-02-01T00:07:13.
+Task end: 2024-02-01T00:07:14.
+Success
+Command:BACKUP DATABASE [Examination] TO  DISK = N''E:\ITI\adv SQL\SQL project\Database backup\Examination_backup_2024_02_01_000713_9157216.bak'' WITH NOFORMAT, NOINIT,  NAME = N''Examination_backup_2024_02_01_000713_9157216'', SKIP, REWIND, NOUNLOAD,  STATS = 10
+
+GO
+
+
